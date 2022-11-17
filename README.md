@@ -11,12 +11,9 @@
 
 - 💻 Développeur OpenSource for **[](https://sayzdev.fr/client)**
 
-- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:fadow0711@gmail.com">Email</a>
+- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:say?pro@sayzdev.fr">Contact Pro</a>
     
-
-- ⚡ Préfere les jeux d'aventures multijoueurs.
-
-## 🚀 Langages et outils
+## 🚀 Compétences et outils
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
