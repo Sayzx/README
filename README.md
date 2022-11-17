@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Sayz&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
+    <a href="[https://github.com/Sayzx/github-readme-stats](https://streak-stats.demolab.com?user=Sayz&theme=dark&hide_border=true&locale=fr)">
 </p>
 
 ## 📊 Mes statistiques Github
@@ -38,7 +38,6 @@
     <a href="https://github.com/Sayzx/github-readme-stats"><img alt="Statistiques Github de Sayzx" src="https://github-readme-stats.vercel.app/api?username=Sayzx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Sayz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayzx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Les principales languages ne sont qu'une mesure dans lesquelles se compose mes créations et ne reflètent pas l'expérience ou le niveau de compétence.
 
 
 <br/>
