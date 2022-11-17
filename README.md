@@ -47,4 +47,8 @@
 
 <br/>
 <br/>
-
+## 🏆 Vues
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sayzx">
+</a>
+<a href="https://github.com/Sayzx?tab=followers"><img src="https://img.shields.io/github/followers/Sayzx?label=Followers&style=social" alt="GitHub Badge"></a>
