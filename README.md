@@ -1,19 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="http://image.noelshack.com/fichiers/2022/46/4/1668711292-web-developer-newsletter-coder-stefan-iordache.jpg" height="175px"/></a>
 
-<h1 align="center">Salut, <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](http://image.noelshack.com/fichiers/2022/46/4/1668712667-support-technique.gif)" width="30px"> je suis HydraDev</h1>
-<h3 align="center">Passionné par la programmation dans le domaine du web.</h3>
-<h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
+<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis Sayz</h1>
+<h3 align="center">Passionné d'informatique et du web développement</h3>
+
 
 
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 Président de **[FiveHeberg](https://fiveheberg.com)**
+- 🔔 Owner de **[zDev](https://dsc.gg/zdev)**
 
-- 💻 Fondateur/Développeur de **[FiveBot](https://fivebot.online)**
+- 💻 Développeur OpenSource for **[](https://sayzdev.fr/client)**
 
-- 👯 Je cherche à collaborer sur des **projets OpenSource**
-
-- 📫 Voici mon adresse mail perso **contact@hydradev.fr**
+- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:fadow0711@gmail.com">Email</a>
+    
 
 - ⚡ Préfere les jeux d'aventures multijoueurs.
 
