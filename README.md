@@ -43,21 +43,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sayzx/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=HydraDevFR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sayzx/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=Sayzx&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-## Liens utiles
-<p align="left">
-
-<a href = "https://discord.gg/zJ2S3CCzwd"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
-<a href = "https://www.youtube.com/channel/UCzxfSqm0cGsFT-D6HwSP2dw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Vues et abonnés
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HydraDevFR">
-</a>
-<a href="https://github.com/HydraDevFR?tab=followers"><img src="https://img.shields.io/github/followers/HydraDevFR?label=Followers&style=social" alt="GitHub Badge"></a>
