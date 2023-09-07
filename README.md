@@ -24,7 +24,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
  </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="[https://image.noelshack.com/fichiers/2023/36/4/1694117397-go.png](https://image.noelshack.com/fichiers/2023/36/4/1694117397-go.png)"/> </a> 
+   <a href="https://go.dev/" target="_blank"> <img src="[https://icons8.com/icon/44442/golang](https://icons8.com/icon/44442/golang)"/> </a>
 </p>
 
 <br/>
