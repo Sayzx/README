@@ -9,9 +9,9 @@
 
 - 🔔 Owner de **[zDev](https://dsc.gg/zdev)**
 
-- 💻 Développeur OpenSource for **[](https://sayzdev.fr/client)**
+- 💻 Développeur OpenSource for **[](https://sayzx.fr/client)**
 
-- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:say?pro@sayzdev.fr">Contact Pro</a>
+- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:contact@sayzx.fr">contact@sayzx.fr</a>
     
 ## 🚀 Compétences et outils
 
