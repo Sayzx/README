@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🔔 Owner de **[zDev](https://dsc.gg/zdev)**
+- 🔔 Owner de **[zDeveloppement](https://dsc.gg/zdev)**
 
-- 💻 Développeur OpenSource for **[](https://sayzx.fr/client)**
+- 💻 Développeur **[](https://sayzx.fr/client)**
 
 - <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:contact@sayzx.fr">contact@sayzx.fr</a>
     
