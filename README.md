@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1012749489402023956/1291166314567700491/web-developer-newsletter-coder-stefan-iordache.jpg?ex=66ff1bd6&is=66fdca56&hm=bab69080a2e0e7bf697cbf946c147db9c85978a9e7f219a0e54828a8653f02d4&=&format=webp&width=832&" height="105px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1012749489402023956/1291166314567700491/web-developer-newsletter-coder-stefan-iordache.jpg?ex=66ff1bd6&is=66fdca56&hm=bab69080a2e0e7bf697cbf946c147db9c85978a9e7f219a0e54828a8653f02d4&=&format=webp&width=832&height=208"/></a>
 
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis Sayz</h1>
 <h3 align="center">Passionné d'informatique et du web développement</h3>
