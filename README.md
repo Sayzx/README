@@ -29,7 +29,7 @@
       <a href="https://php.com" target="_blank"> <img src="https://img.icons8.com/badges/48/php-logo.png"/> </a> 
     <a href="https://java.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png"/> </a>
  <a href="https://www.learnshell.org/" target="_blank"> <img src="https://img.icons8.com/color/48/bash.png"/> </a> 
- <a href="https://docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png"/> </a>   ht
+ <a href="https://docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png"/> </a>   
   <a href="https://python.org" target="_blank"> <img src="htps://img.icons8.com/color/48/python--v1.png"/> </a> 
     
 </p>
