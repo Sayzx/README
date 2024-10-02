@@ -15,7 +15,7 @@
     
 ## 🚀 Compétences et outils
 
-<p align="left"> 
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -26,7 +26,12 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a> 
      <a href="https://javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a> 
-   
+      <a href="https://php.com" target="_blank"> <img src="https://img.icons8.com/badges/48/php-logo.png"/> </a> 
+    <a href="https://java.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png"/> </a>
+ <a href="https://www.learnshell.org/" target="_blank"> <img src="https://img.icons8.com/color/48/bash.png"/> </a> 
+ <a href="https://docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png"/> </a>   ht
+  <a href="https://python.org" target="_blank"> <img src="htps://img.icons8.com/color/48/python--v1.png"/> </a> 
+    
 </p>
 
 <br/>
